@@ -4,8 +4,9 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Built with](#built-with)
+<!--  -->
+
+- [Built with](#built-with)
 
 ### Built with
 
