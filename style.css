@@ -15,8 +15,7 @@ body {
   background-image: url(/images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-size: contain;
-  /* background-color: hsl(225, 100%, 94%); */
-  background-color: #8a8a8a;
+  background-color: hsl(225, 100%, 94%);
   position: relative;
   font-size: 16px;
 }
